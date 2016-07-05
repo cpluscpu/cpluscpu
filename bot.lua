@@ -48,7 +48,7 @@ _just send a photo_
 
 DiMoN bot Helper
 
-@parsaalemi
+@MASTER_DiMON
 ]] 
 
 -------
